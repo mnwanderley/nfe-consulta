@@ -1,0 +1,15 @@
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de ambiente
+.env
+
+# Diretórios temporários
+data/
+*.zip
+
+# Arquivos de IDE
+.idea/

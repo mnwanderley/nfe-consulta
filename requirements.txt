@@ -1,0 +1,16 @@
+langchain==0.1.16 # >=0.2.0
+# v4 langchain==0.2.16crewai==0.28.8
+# v4 crewai==0.30.11
+pandas==2.2.2
+streamlit==1.33.0
+# v4 streamlit==1.38.0
+python-dotenv==1.0.0
+langchain-groq==0.1.2  # Novo pacote para integração com Groq
+# v4 langchain-groq==0.1.9
+
+#crewai==0.28.8
+#langchain-groq==0.1.2
+#streamlit==1.33.0
+#python-dotenv==1.0.1
+#pandas==2.2.2
+#langchain==0.1.16
